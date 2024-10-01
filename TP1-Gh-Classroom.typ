@@ -17,3 +17,7 @@ Pour créer un devoir, l'enseignant doit se connecter à Github Classroom et sui
 4. Partager le lien d'invitation avec les étudiants.
 
 #remarque(title: "Attention", fill: orange)[Le contenu de ce chapitre a été généré principalement par Copilot !]
+
+== Superviser avec Git4School (made in IRIT!)
+
+https://git4school.firebaseapp.com/home
