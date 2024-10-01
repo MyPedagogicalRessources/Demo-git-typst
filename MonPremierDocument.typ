@@ -47,3 +47,5 @@ Syncronisation avec un dépôt distant
 _Votre réponse ici..._
 
 #fix[\#4 - Syncronisation avec un dépôt distant]
+
+#include "TP1-Gh-Classroom.typ"
